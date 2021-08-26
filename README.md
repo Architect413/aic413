@@ -1,0 +1,2 @@
+# aic413
+AIC - Auto Instance Cluster. You can initialize multiple instances of PostgreSQL, Mongo and Redis with custom configurations written in YAML. We can initialize, delete or override existing instances. When you open specific version on release list, for example version v1.0, inside of that package you can find EULA agreement, official documentation in PDF format and packages of binary files, separated according to operating system for which binary files are built. All parts of 413 ecosystem you can find on https://www.413.world.
